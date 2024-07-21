@@ -34,7 +34,8 @@ Passionate cybersecurity student focused on penetration testing and vulnerabilit
 |                 Projects                 |
 |------------------------------------------|
 | Simple port scanner.                     | 
-|Subdomains Enumeration Script with Python.|
+|Subdomains Enumeration script with Python.|
+|Nmap Automation script with Python.       |
 
 ## Connect with Me
 - **Linkedin** http://linkedin.com/in/m1000alive)
